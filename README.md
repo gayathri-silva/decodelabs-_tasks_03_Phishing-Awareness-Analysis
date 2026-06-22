@@ -1,4 +1,4 @@
- # 🛡️ Cyber Security Project 3: Phishing Awareness Analysis
+ # Cyber Security Project 3: Phishing Awareness Analysis
 
 ## Project Overview
 
